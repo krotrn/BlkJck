@@ -1,4 +1,3 @@
-Here is a basic README file for your repository:
 
 ```markdown
 # BlkJck
@@ -49,5 +48,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - Thanks to all contributors who have helped in learning and developing this project.
 ```
-
-You can create the `README.md` file in your repository and paste the above content into it.
