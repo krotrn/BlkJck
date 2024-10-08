@@ -1,5 +1,5 @@
 
-```markdown
+
 # BlkJck
 
 ## Description
@@ -43,8 +43,3 @@ The repository **krotrn/BlkJck** is focused on learning JavaScript through the d
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgements
-
-- Thanks to all contributors who have helped in learning and developing this project.
-```
